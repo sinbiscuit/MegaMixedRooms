@@ -1,0 +1,400 @@
+<?xml version="1.0" ?>
+<rooms>
+	<room variant="0" name="Aeronaut - [Chests RFG] - Topical room on American healthcare" type="9" subtype="0" shape="1" width="13" height="7" difficulty="1" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="5" variant="344" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="183" variant="1015" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="183" variant="1015" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="5" variant="344" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="183" variant="1019" subtype="3" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="1">
+			<entity type="183" variant="1019" subtype="3" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="183" variant="1019" subtype="3" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="183" variant="1019" subtype="3" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="2">
+			<entity type="183" variant="1019" subtype="6" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="2">
+			<entity type="183" variant="1019" subtype="3" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="2">
+			<entity type="183" variant="1019" subtype="3" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="2">
+			<entity type="183" variant="1019" subtype="6" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="6" variant="2" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="6" variant="1036" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="1" name="Aeronaut - [Chests RFG] - I NEED HEALING" type="9" subtype="0" shape="1" width="13" height="7" difficulty="1" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="6" variant="1100" subtype="2822" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="5" variant="344" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="6" variant="1100" subtype="37380" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="2" name="Aeronaut - [Chests RFG] - Pica-chu" type="9" subtype="0" shape="1" width="13" height="7" difficulty="1" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="5" variant="344" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="4000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="1">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="6" variant="1100" subtype="23563" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="1490" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="6" variant="1100" subtype="25360" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="5">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="4000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="5" variant="344" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="3" name="Aeronaut - [Chests RFG] - Satanic Synthwave Beats to Blood Sacrifice To" type="9" subtype="0" shape="1" width="13" height="7" difficulty="1" weight="1.0">
+		<door exists="False" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="False" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="33" variant="1" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="1">
+			<entity type="6" variant="5" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="2">
+			<entity type="750" variant="118" subtype="77" weight="1.0"/>
+			<entity type="199" variant="11" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="3">
+			<entity type="5" variant="344" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="5" variant="344" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="5">
+			<entity type="6" variant="1033" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="4" name="Aeronaut - [Chests RFG] - You're getting outclassed by material girls" type="9" subtype="0" shape="1" width="13" height="7" difficulty="1" weight="1.0">
+		<door exists="False" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="False" x="13" y="3"/>
+		<spawn x="0" y="1">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="1">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="1">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="1">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="2">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="2">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="2">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="2">
+			<entity type="6" variant="1037" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="2">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="3">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="3">
+			<entity type="5" variant="344" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="183" variant="1013" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="5" variant="752" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="183" variant="1013" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="6" variant="1037" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="3">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="4">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="4">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="4">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="4">
+			<entity type="6" variant="1037" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="4">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="5">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="5">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="5">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="5">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="183" variant="1017" subtype="5" weight="1.0"/>
+		</spawn>
+	</room>
+</rooms>
