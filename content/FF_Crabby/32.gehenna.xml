@@ -497,7 +497,70 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="167" name="Sin - [FF/CC] - and here is where we store the testicles" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-28T02:40+00:00">
+	<room variant="167" name="Sin - [FF/CC] - 70s Man" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="183" variant="1041" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="1">
+			<entity type="183" variant="1045" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="1">
+			<entity type="183" variant="1045" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="1">
+			<entity type="183" variant="1045" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="2">
+			<entity type="183" variant="1044" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="2">
+			<entity type="183" variant="1044" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="183" variant="1044" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="734" variant="4" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="734" variant="4" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="109" variant="13" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="734" variant="4" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="734" variant="4" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="183" variant="1044" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="4">
+			<entity type="183" variant="1044" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="4">
+			<entity type="183" variant="1044" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="5">
+			<entity type="183" variant="1045" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="5">
+			<entity type="183" variant="1045" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="5">
+			<entity type="183" variant="1045" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="183" variant="1041" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="168" name="Sin - [FF/CC] - and here is where we store the testicles" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-28T02:40+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -530,7 +593,7 @@
 			<entity type="109" variant="16" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="168" name="Sin - [FF/CC] - ask me about my butto hole" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="169" name="Sin - [FF/CC] - ask me about my butto hole" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -599,7 +662,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="169" name="Sin - [FF/CC] - awful print" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="170" name="Sin - [FF/CC] - awful print" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -626,7 +689,7 @@
 			<entity type="160" variant="1270" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="170" name="Sin - [FF/CC] - battery bunions" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T21:55+00:00">
+	<room variant="171" name="Sin - [FF/CC] - battery bunions" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T21:55+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -662,7 +725,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="171" name="Sin - [FF/CC] - belly voltage" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="172" name="Sin - [FF/CC] - belly voltage" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -749,7 +812,7 @@
 			<entity type="838" variant="21" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="172" name="Sin - [FF/CC] - bloodrush" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-29T02:46+00:00">
+	<room variant="173" name="Sin - [FF/CC] - bloodrush" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-29T02:46+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -788,7 +851,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="173" name="Sin - [FF/CC] - bloodshot" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-29T00:11+00:00">
+	<room variant="174" name="Sin - [FF/CC] - bloodshot" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-29T00:11+00:00">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -929,7 +992,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="174" name="Sin - [FF/CC] - bull penis cane" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="175" name="Sin - [FF/CC] - bull penis cane" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -968,7 +1031,7 @@
 			<entity type="33" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="175" name="Sin - [FF/CC] - but mom, what will they do with my testicles?" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="176" name="Sin - [FF/CC] - but mom, what will they do with my testicles?" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -1040,7 +1103,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="176" name="Sin - [FF/CC] - carolina reaper" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-28T02:24+00:00">
+	<room variant="177" name="Sin - [FF/CC] - carolina reaper" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-28T02:24+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -1121,7 +1184,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="177" name="Sin - [FF/CC] - chastity" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="178" name="Sin - [FF/CC] - chastity" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -1178,7 +1241,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="178" name="Sin - [FF/CC] - close, but not too close" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="179" name="Sin - [FF/CC] - close, but not too close" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -1238,7 +1301,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="179" name="Sin - [FF/CC] - dizzy" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T21:05+00:00">
+	<room variant="180" name="Sin - [FF/CC] - dizzy" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T21:05+00:00">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -1268,7 +1331,7 @@
 			<entity type="109" variant="16" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="180" name="Sin - [FF/CC] - dread plasma" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-29T18:05+00:00">
+	<room variant="181" name="Sin - [FF/CC] - dread plasma" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-29T18:05+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -1355,7 +1418,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="181" name="Sin - [FF/CC] - duplitious" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="182" name="Sin - [FF/CC] - duplitious" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -1412,7 +1475,7 @@
 			<entity type="160" variant="1340" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="182" name="Sin - [FF/CC] - electric bodybuilders" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0" lastTestTime="2025-11-29T18:10+00:00">
+	<room variant="183" name="Sin - [FF/CC] - electric bodybuilders" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0" lastTestTime="2025-11-29T18:10+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -1585,7 +1648,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="183" name="Sin - [FF/CC] - electric fireworks" type="1" subtype="0" shape="4" width="13" height="14" difficulty="15" weight="1.0" lastTestTime="2025-11-28T02:13+00:00">
+	<room variant="184" name="Sin - [FF/CC] - electric fireworks" type="1" subtype="0" shape="4" width="13" height="14" difficulty="15" weight="1.0" lastTestTime="2025-11-28T02:13+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -1740,7 +1803,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="184" name="Sin - [FF/CC] - electro hitchers" type="1" subtype="0" shape="6" width="26" height="7" difficulty="10" weight="1.0">
+	<room variant="185" name="Sin - [FF/CC] - electro hitchers" type="1" subtype="0" shape="6" width="26" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -1832,7 +1895,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="185" name="Sin - [FF/CC] - electrograde" type="1" subtype="0" shape="4" width="13" height="14" difficulty="5" weight="1.0" lastTestTime="2025-11-28T02:07+00:00">
+	<room variant="186" name="Sin - [FF/CC] - electrograde" type="1" subtype="0" shape="4" width="13" height="14" difficulty="5" weight="1.0" lastTestTime="2025-11-28T02:07+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -2020,7 +2083,7 @@
 			<entity type="114" variant="59" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="186" name="Sin - [FF/CC] - envious lightning" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="187" name="Sin - [FF/CC] - envious lightning" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -2083,7 +2146,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="187" name="Sin - [FF/CC] - fireworks freaks" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="188" name="Sin - [FF/CC] - fireworks freaks" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -2128,7 +2191,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="188" name="Sin - [FF/CC] - flashers" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
+	<room variant="189" name="Sin - [FF/CC] - flashers" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -2298,7 +2361,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="189" name="Sin - [FF/CC] - flickering prison" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T02:26+00:00">
+	<room variant="190" name="Sin - [FF/CC] - flickering prison" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T02:26+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -2397,7 +2460,7 @@
 			<entity type="109" variant="16" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="190" name="Sin - [FF/CC] - frick frick frick" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="191" name="Sin - [FF/CC] - frick frick frick" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -2496,7 +2559,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="191" name="Sin - [FF/CC] - guy fear-ari" type="1" subtype="0" shape="1" width="13" height="7" difficulty="15" weight="1.0">
+	<room variant="192" name="Sin - [FF/CC] - guy fear-ari" type="1" subtype="0" shape="1" width="13" height="7" difficulty="15" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -2529,7 +2592,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="192" name="Sin - [FF/CC] - happy new thanksgivemas" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="193" name="Sin - [FF/CC] - happy new thanksgivemas" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -2586,7 +2649,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="193" name="Sin - [FF/CC] - head cruncher" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-29T03:02+00:00">
+	<room variant="194" name="Sin - [FF/CC] - head cruncher" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-29T03:02+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -2622,7 +2685,7 @@
 			<entity type="450" variant="18" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="194" name="Sin - [FF/CC] - head lube" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0" lastTestTime="2025-11-28T21:55+00:00">
+	<room variant="195" name="Sin - [FF/CC] - head lube" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0" lastTestTime="2025-11-28T21:55+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -2795,7 +2858,7 @@
 			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="195" name="Sin - [FF/CC] - heavyweights" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="196" name="Sin - [FF/CC] - heavyweights" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -2846,7 +2909,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="196" name="Sin - [FF/CC] - hitcher feature" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="197" name="Sin - [FF/CC] - hitcher feature" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -2933,7 +2996,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="197" name="Sin - [FF/CC] - i wanna be a monkey actor and get paid in bananas and cocaine" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
+	<room variant="198" name="Sin - [FF/CC] - i wanna be a monkey actor and get paid in bananas and cocaine" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -2998,7 +3061,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="198" name="Sin - [FF/CC] - i'm having so much fun!" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="199" name="Sin - [FF/CC] - i'm having so much fun!" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3049,7 +3112,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="199" name="Sin - [FF/CC] - invasion from within" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="200" name="Sin - [FF/CC] - invasion from within" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3094,7 +3157,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="200" name="Sin - [FF/CC] - iron regeneration" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="201" name="Sin - [FF/CC] - iron regeneration" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3151,7 +3214,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="201" name="Sin - [FF/CC] - ironheads" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="202" name="Sin - [FF/CC] - ironheads" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3238,7 +3301,7 @@
 			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="202" name="Sin - [FF/CC] - its a kink i guess" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="203" name="Sin - [FF/CC] - its a kink i guess" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3283,7 +3346,7 @@
 			<entity type="6100" variant="3" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="203" name="Sin - [FF/CC] - lab maze" type="1" subtype="0" shape="6" width="26" height="7" difficulty="5" weight="1.0">
+	<room variant="204" name="Sin - [FF/CC] - lab maze" type="1" subtype="0" shape="6" width="26" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3357,7 +3420,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="204" name="Sin - [FF/CC] - lightning roamers" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-29T17:43+00:00">
+	<room variant="205" name="Sin - [FF/CC] - lightning roamers" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-29T17:43+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3390,7 +3453,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="205" name="Sin - [FF/CC] - luciferium penance" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="206" name="Sin - [FF/CC] - luciferium penance" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3444,7 +3507,7 @@
 			<entity type="109" variant="16" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="206" name="Sin - [FF/CC] - mania" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="207" name="Sin - [FF/CC] - mania" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3531,7 +3594,7 @@
 			<entity type="109" variant="16" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="207" name="Sin - [FF/CC] - metal reaper" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="208" name="Sin - [FF/CC] - metal reaper" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3576,7 +3639,7 @@
 			<entity type="6100" variant="2" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="208" name="Sin - [FF/CC] - mine zone" type="1" subtype="0" shape="6" width="26" height="7" difficulty="5" weight="1.0">
+	<room variant="209" name="Sin - [FF/CC] - mine zone" type="1" subtype="0" shape="6" width="26" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3686,7 +3749,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="209" name="Sin - [FF/CC] - occult wave" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="210" name="Sin - [FF/CC] - occult wave" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="False" x="6" y="7"/>
@@ -3794,7 +3857,7 @@
 			<entity type="130" variant="30" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="210" name="Sin - [FF/CC] - pacman and labubu in manhattan" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="211" name="Sin - [FF/CC] - pacman and labubu in manhattan" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3863,7 +3926,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="211" name="Sin - [FF/CC] - permanent spine damage" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="212" name="Sin - [FF/CC] - permanent spine damage" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3926,7 +3989,7 @@
 			<entity type="160" variant="821" subtype="1" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="212" name="Sin - [FF/CC] - personal space invaders" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-28T02:24+00:00">
+	<room variant="213" name="Sin - [FF/CC] - personal space invaders" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-28T02:24+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -3971,7 +4034,7 @@
 			<entity type="6100" variant="1" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="213" name="Sin - [FF/CC] - plasma scythes" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
+	<room variant="214" name="Sin - [FF/CC] - plasma scythes" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -4177,7 +4240,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="214" name="Sin - [FF/CC] - plasmid" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0" lastTestTime="2025-11-29T02:57+00:00">
+	<room variant="215" name="Sin - [FF/CC] - plasmid" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0" lastTestTime="2025-11-29T02:57+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -4299,7 +4362,7 @@
 			<entity type="838" variant="21" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="215" name="Sin - [FF/CC] - plasmosis" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="216" name="Sin - [FF/CC] - plasmosis" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -4338,7 +4401,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="216" name="Sin - [FF/CC] - poop prison" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="217" name="Sin - [FF/CC] - poop prison" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -4449,7 +4512,7 @@
 			<entity type="1500" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="217" name="Sin - [FF/CC] - power circuit" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="218" name="Sin - [FF/CC] - power circuit" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -4500,7 +4563,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="218" name="Sin - [FF/CC] - putting the fear into phear" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T02:19+00:00">
+	<room variant="219" name="Sin - [FF/CC] - putting the fear into phear" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T02:19+00:00">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -4575,7 +4638,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="219" name="Sin - [FF/CC] - sacrificial" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="220" name="Sin - [FF/CC] - sacrificial" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -4632,7 +4695,7 @@
 			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="220" name="Sin - [FF/CC] - sawmill tf2" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T02:24+00:00">
+	<room variant="221" name="Sin - [FF/CC] - sawmill tf2" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T02:24+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -4689,7 +4752,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="221" name="Sin - [FF/CC] - shaken, never stirred" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T21:55+00:00">
+	<room variant="222" name="Sin - [FF/CC] - shaken, never stirred" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T21:55+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="False" x="6" y="7"/>
@@ -4749,7 +4812,7 @@
 			<entity type="6100" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="222" name="Sin - [FF/CC] - shotgun penetration" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="223" name="Sin - [FF/CC] - shotgun penetration" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -4794,7 +4857,7 @@
 			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="223" name="Sin - [FF/CC] - sorry if you have soy milk" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="224" name="Sin - [FF/CC] - sorry if you have soy milk" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -4833,7 +4896,7 @@
 			<entity type="6100" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="224" name="Sin - [FF/CC] - spigot" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T02:24+00:00">
+	<room variant="225" name="Sin - [FF/CC] - spigot" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T02:24+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -4896,7 +4959,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="225" name="Sin - [FF/CC] - strike while the iron is hot" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="226" name="Sin - [FF/CC] - strike while the iron is hot" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -4947,7 +5010,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="226" name="Sin - [FF/CC] - t-temperance?" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="227" name="Sin - [FF/CC] - t-temperance?" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5010,7 +5073,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="227" name="Sin - [FF/CC] - tendriled terror" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="228" name="Sin - [FF/CC] - tendriled terror" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5076,7 +5139,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="228" name="Sin - [FF/CC] - testing the new toys" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-28T02:19+00:00">
+	<room variant="229" name="Sin - [FF/CC] - testing the new toys" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-28T02:19+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5121,7 +5184,7 @@
 			<entity type="6100" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="229" name="Sin - [FF/CC] - this is just kinda cruel on my end" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T02:19+00:00">
+	<room variant="230" name="Sin - [FF/CC] - this is just kinda cruel on my end" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T02:19+00:00">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5222,7 +5285,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="230" name="Sin - [FF/CC] - trapped in the dungeon" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="231" name="Sin - [FF/CC] - trapped in the dungeon" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5267,7 +5330,7 @@
 			<entity type="1010" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="231" name="Sin - [FF/CC] - unfortunately, you are maidenless" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="232" name="Sin - [FF/CC] - unfortunately, you are maidenless" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5333,7 +5396,7 @@
 			<entity type="114" variant="89" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="232" name="Sin - [FF/CC] - vertigo" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T21:05+00:00">
+	<room variant="233" name="Sin - [FF/CC] - vertigo" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-28T21:05+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="False" x="6" y="7"/>
@@ -5363,7 +5426,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="233" name="Sin - [FF/CC] - whose the big beef now?" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="234" name="Sin - [FF/CC] - whose the big beef now?" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5414,7 +5477,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="234" name="Sin - [FF/CC] - magnet" type="1" subtype="0" shape="3" width="13" height="7" difficulty="1" weight="1.0" lastTestTime="2025-11-29T18:16+00:00">
+	<room variant="235" name="Sin - [FF/CC] - magnet" type="1" subtype="0" shape="3" width="13" height="7" difficulty="1" weight="1.0" lastTestTime="2025-11-29T18:16+00:00">
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
 		<spawn x="6" y="1">
@@ -5433,7 +5496,7 @@
 			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="235" name="Sin - [FF/CC] - spooky gehenna myths" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="236" name="Sin - [FF/CC] - spooky gehenna myths" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5475,7 +5538,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="236" name="Sin - [FF/CC] - fred durst" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
+	<room variant="237" name="Sin - [FF/CC] - fred durst" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -5561,7 +5624,7 @@
 			<entity type="6100" variant="2" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="237" name="Sin - [FF/CC] - forklift-certified" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="238" name="Sin - [FF/CC] - forklift-certified" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5591,7 +5654,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="238" name="Sin - [FF/CC] - abuelita..." type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="239" name="Sin - [FF/CC] - abuelita..." type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5642,7 +5705,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="239" name="Sin - [FF/CC] - abuelita NOOO" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="240" name="Sin - [FF/CC] - abuelita NOOO" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5675,7 +5738,7 @@
 			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="240" name="Sin - [FF/CC] - heavyweights" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="241" name="Sin - [FF/CC] - heavyweights" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5729,7 +5792,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="241" name="Sin - [FF/CC] - highspeed grandma-job" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="242" name="Sin - [FF/CC] - highspeed grandma-job" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5777,7 +5840,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="242" name="Sin - [FF/CC] - mr. bean sex has logged in" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="243" name="Sin - [FF/CC] - mr. bean sex has logged in" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5819,7 +5882,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="243" name="Sin - [FF/CC] - sv_target_threat" type="1" subtype="0" shape="1" width="13" height="7" difficulty="15" weight="1.0">
+	<room variant="244" name="Sin - [FF/CC] - sv_target_threat" type="1" subtype="0" shape="1" width="13" height="7" difficulty="15" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -5873,7 +5936,7 @@
 			<entity type="92" variant="100" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="244" name="Sin - [FF/CC] - annihilator" type="1" subtype="0" shape="8" width="26" height="14" difficulty="10" weight="1.0">
+	<room variant="245" name="Sin - [FF/CC] - annihilator" type="1" subtype="0" shape="8" width="26" height="14" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -6165,7 +6228,7 @@
 			<entity type="33" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="245" name="Sin - [FF/CC] - hey nao. you are a rok star" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="246" name="Sin - [FF/CC] - hey nao. you are a rok star" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -6222,7 +6285,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="246" name="Sin - [FF/CC] - no whimsy in my heart" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="247" name="Sin - [FF/CC] - no whimsy in my heart" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -6267,7 +6330,7 @@
 			<entity type="120" variant="226" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="247" name="Sin - [FF/CC] - fierce shrek debates" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-29T23:14+00:00">
+	<room variant="248" name="Sin - [FF/CC] - fierce shrek debates" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-29T23:14+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="False" x="6" y="7"/>
@@ -6360,7 +6423,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="248" name="Sin - [FF/CC] - rage machine" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
+	<room variant="249" name="Sin - [FF/CC] - rage machine" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -6482,7 +6545,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="249" name="Sin - [FF/CC] - squirrel stapler" type="1" subtype="0" shape="6" width="26" height="7" difficulty="10" weight="1.0">
+	<room variant="250" name="Sin - [FF/CC] - squirrel stapler" type="1" subtype="0" shape="6" width="26" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -6586,7 +6649,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="250" name="Sin - [FF/CC] - don't worry about it, it would ruin the moment" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="251" name="Sin - [FF/CC] - don't worry about it, it would ruin the moment" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -6652,7 +6715,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="251" name="Sin - [FF/CC] - ladies and gentlemen. sometime you have to do things for humanity. this is one of them." type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0" lastTestTime="2025-11-29T23:23+00:00">
+	<room variant="252" name="Sin - [FF/CC] - ladies and gentlemen. sometime you have to do things for humanity. this is one of them." type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0" lastTestTime="2025-11-29T23:23+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -6774,7 +6837,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="252" name="Sin - [FF/CC] - a spooky dookie" type="1" subtype="0" shape="6" width="26" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-29T23:26+00:00">
+	<room variant="253" name="Sin - [FF/CC] - a spooky dookie" type="1" subtype="0" shape="6" width="26" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-29T23:26+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -6830,7 +6893,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="253" name="Sin - [FF/CC] - wait thats not fair is it?" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-29T23:30+00:00">
+	<room variant="254" name="Sin - [FF/CC] - wait thats not fair is it?" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-29T23:30+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -6875,7 +6938,7 @@
 			<entity type="92" variant="100" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="254" name="Sin - [FF/CC] - evil heart" type="1" subtype="0" shape="10" width="26" height="14" difficulty="15" weight="1.0">
+	<room variant="255" name="Sin - [FF/CC] - evil heart" type="1" subtype="0" shape="10" width="26" height="14" difficulty="15" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -6978,7 +7041,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="255" name="Sin - [FF/CC] - funeral fire" type="1" subtype="0" shape="4" width="13" height="14" difficulty="15" weight="1.0" lastTestTime="2025-11-29T23:35+00:00">
+	<room variant="256" name="Sin - [FF/CC] - funeral fire" type="1" subtype="0" shape="4" width="13" height="14" difficulty="15" weight="1.0" lastTestTime="2025-11-29T23:35+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -7067,7 +7130,7 @@
 			<entity type="33" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="256" name="Sin - [FF/CC] - dog park" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="257" name="Sin - [FF/CC] - dog park" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -7109,7 +7172,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="257" name="Sin - [FF/CC] - heart of the wicked" type="1" subtype="0" shape="11" width="26" height="14" difficulty="15" weight="1.0" lastTestTime="2025-11-29T23:40+00:00">
+	<room variant="258" name="Sin - [FF/CC] - heart of the wicked" type="1" subtype="0" shape="11" width="26" height="14" difficulty="15" weight="1.0" lastTestTime="2025-11-29T23:40+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -7197,7 +7260,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="258" name="Sin - [FF/CC] - nightmare steel cage" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
+	<room variant="259" name="Sin - [FF/CC] - nightmare steel cage" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -7418,7 +7481,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="259" name="Sin - [FF/CC] - not too different" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-29T23:46+00:00">
+	<room variant="260" name="Sin - [FF/CC] - not too different" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-29T23:46+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="False" x="6" y="7"/>
@@ -7469,7 +7532,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="260" name="Sin - [FF/CC] - blood and GUTS" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-29T23:48+00:00">
+	<room variant="261" name="Sin - [FF/CC] - blood and GUTS" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-29T23:48+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="False" x="6" y="7"/>
@@ -7514,7 +7577,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="261" name="Sin - [FF/CC] - AAAAAA" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
+	<room variant="262" name="Sin - [FF/CC] - AAAAAA" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="False" x="6" y="-1"/>
@@ -7672,7 +7735,7 @@
 			<entity type="23" variant="961" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="262" name="Sin - [FF/CC] - shotgun trap" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="263" name="Sin - [FF/CC] - shotgun trap" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -7735,7 +7798,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="263" name="Sin - [FF/CC] - steel stampers" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="264" name="Sin - [FF/CC] - steel stampers" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -7768,7 +7831,7 @@
 			<entity type="114" variant="58" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="264" name="Sin - [FF/CC] - bronzed bull" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="265" name="Sin - [FF/CC] - bronzed bull" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -7825,7 +7888,7 @@
 			<entity type="160" variant="1170" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="265" name="Sin - [FF/CC] - pence of silver" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="266" name="Sin - [FF/CC] - pence of silver" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -7876,7 +7939,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="266" name="Sin - [FF/CC] - epic launcher stuff" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="267" name="Sin - [FF/CC] - epic launcher stuff" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -7933,7 +7996,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="267" name="Sin - [FF/CC] - spun tension" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="268" name="Sin - [FF/CC] - spun tension" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -7984,7 +8047,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="268" name="Sin - [FF/CC] - damn gurl, you thick" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="269" name="Sin - [FF/CC] - damn gurl, you thick" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -8041,7 +8104,7 @@
 			<entity type="114" variant="80" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="269" name="Sin - [FF/CC] - construction" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="270" name="Sin - [FF/CC] - construction" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -8104,7 +8167,7 @@
 			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="270" name="Sin - [FF/CC] - ragtagbags" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="271" name="Sin - [FF/CC] - ragtagbags" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -8194,7 +8257,7 @@
 			<entity type="109" variant="13" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="271" name="Sin - [FF/CC] - strvn's delight (not actually his delight)" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="272" name="Sin - [FF/CC] - strvn's delight (not actually his delight)" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -8317,7 +8380,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="272" name="Sin - [FF/CC] - our cool meatbags (do not steal)" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="273" name="Sin - [FF/CC] - our cool meatbags (do not steal)" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -8356,7 +8419,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="273" name="Sin - [FF/CC] - this one is for you strvn " type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="274" name="Sin - [FF/CC] - this one is for you strvn " type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -8383,7 +8446,7 @@
 			<entity type="109" variant="13" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="274" name="Sin - [FF/CC] - aper is actually cool" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+	<room variant="275" name="Sin - [FF/CC] - aper is actually cool" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -8479,7 +8542,7 @@
 			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="275" name="Sin - [FF/CC] - gangreened" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="276" name="Sin - [FF/CC] - gangreened" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -8554,7 +8617,7 @@
 			<entity type="5" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="276" name="Sin - [FF/CC] - discy scares me these days" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="277" name="Sin - [FF/CC] - discy scares me these days" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="False" x="6" y="7"/>
@@ -8611,7 +8674,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="277" name="Sin - [FF/CC] - isaac's finest" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="278" name="Sin - [FF/CC] - isaac's finest" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="False" x="6" y="7"/>
@@ -8716,7 +8779,7 @@
 			<entity type="240" variant="114" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="278" name="Sin - [FF/CC] - curly brackets" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
+	<room variant="279" name="Sin - [FF/CC] - curly brackets" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -8862,7 +8925,7 @@
 			<entity type="6100" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="279" name="Sin - [FF/CC] - maze jumping" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="280" name="Sin - [FF/CC] - maze jumping" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -8889,7 +8952,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="280" name="Sin - [FF/CC] - tortured shadows" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="281" name="Sin - [FF/CC] - tortured shadows" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="False" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -9012,7 +9075,7 @@
 			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="281" name="Sin - [FF/CC] - grid stuff" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="282" name="Sin - [FF/CC] - grid stuff" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="False" x="6" y="7"/>
@@ -9093,7 +9156,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="282" name="Sin - [FF/CC] - keko kuko" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="283" name="Sin - [FF/CC] - keko kuko" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -9198,7 +9261,7 @@
 			<entity type="33" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="283" name="Sin - [FF/CC] - i said step ON ME mommy, not step on mommy" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0" lastTestTime="2025-11-30T03:27+00:00">
+	<room variant="284" name="Sin - [FF/CC] - i said step ON ME mommy, not step on mommy" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0" lastTestTime="2025-11-30T03:27+00:00">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="-1" y="10"/>
 		<door exists="True" x="6" y="-1"/>
@@ -9266,7 +9329,7 @@
 			<entity type="109" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="284" name="Sin - [FF/CC] - maidens of honor" type="1" subtype="0" shape="6" width="26" height="7" difficulty="10" weight="1.0">
+	<room variant="285" name="Sin - [FF/CC] - maidens of honor" type="1" subtype="0" shape="6" width="26" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -9397,7 +9460,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="285" name="Sin - [FF/CC] - dog lady" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="286" name="Sin - [FF/CC] - dog lady" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -9478,7 +9541,7 @@
 			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="286" name="Sin - [FF/CC] - don't talk to me or my mini-me" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="287" name="Sin - [FF/CC] - don't talk to me or my mini-me" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="True" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -9541,7 +9604,7 @@
 			<entity type="183" variant="1016" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
-	<room variant="287" name="Sin - [FF/CC] - bowling for grannies" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+	<room variant="288" name="Sin - [FF/CC] - bowling for grannies" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
 		<door exists="False" x="-1" y="3"/>
 		<door exists="True" x="6" y="-1"/>
 		<door exists="True" x="6" y="7"/>
@@ -9620,6 +9683,2251 @@
 		</spawn>
 		<spawn x="12" y="5">
 			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="289" name="Sin - [FF/CC] - bloody plasma" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-30T14:14+00:00">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="6" y="2">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="3">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="227" variant="450" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="227" variant="450" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="290" name="Sin - [FF/CC] - gehenna extreme" type="1" subtype="0" shape="6" width="26" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-30T14:14+00:00">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="19" y="-1"/>
+		<door exists="True" x="19" y="7"/>
+		<door exists="True" x="26" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="0">
+			<entity type="6100" variant="4" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="114" variant="59" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="15" y="1">
+			<entity type="114" variant="59" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="18" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="19" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="6100" variant="2" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="16" y="3">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="18" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="19" y="3">
+			<entity type="6100" variant="2" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="18" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="5">
+			<entity type="114" variant="59" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="15" y="5">
+			<entity type="114" variant="59" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="6100" variant="4" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="23" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="24" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="6">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="291" name="Sin - [FF/CC] - cakewalk? more like cakerun" type="1" subtype="0" shape="8" width="26" height="14" difficulty="10" weight="1.0" lastTestTime="2025-11-30T14:14+00:00">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="-1" y="10"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="14"/>
+		<door exists="True" x="19" y="-1"/>
+		<door exists="True" x="19" y="14"/>
+		<door exists="True" x="26" y="3"/>
+		<door exists="True" x="26" y="10"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="23" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="24" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="23" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="24" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="2">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="14" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="15" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="14" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="15" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="17" y="4">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="5">
+			<entity type="160" variant="660" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="14" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="14" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="20" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="21" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="14" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="20" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="21" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="8">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="8">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="8">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="8">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="8">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="16" y="8">
+			<entity type="160" variant="660" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="19" y="8">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="20" y="8">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="21" y="8">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="9">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="9">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="9">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="19" y="9">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="20" y="9">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="21" y="9">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="10">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="10">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="19" y="10">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="20" y="10">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="11">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="11">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="11">
+			<entity type="199" variant="24" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="11">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="12">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="12">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="24" y="12">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="12">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="13">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="13">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="13">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="22" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="23" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="24" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="292" name="Sin - [FF/CC] - surge protector" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0" lastTestTime="2025-11-30T14:14+00:00">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="-1" y="10"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="14"/>
+		<door exists="True" x="13" y="3"/>
+		<door exists="True" x="13" y="10"/>
+		<spawn x="0" y="0">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="7">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="7">
+			<entity type="160" variant="660" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="8">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="9">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="10">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="10">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="11">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="11">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="11">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="12">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="12">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="12">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="12">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="13">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="13">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="13">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="13">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="13">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="293" name="Sin - [FF/CC] - gotta have one bastard room i guess" type="1" subtype="0" shape="4" width="13" height="14" difficulty="15" weight="1.0" lastTestTime="2025-11-30T14:30+00:00">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="-1" y="10"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="14"/>
+		<door exists="True" x="13" y="3"/>
+		<door exists="True" x="13" y="10"/>
+		<spawn x="0" y="0">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="170" variant="10" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="6">
+			<entity type="160" variant="451" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="6">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="9">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="9">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="9">
+			<entity type="170" variant="10" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="9">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="9">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="10">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="10">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="10">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="10">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="11">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="11">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="11">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="11">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="13">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="13">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="294" name="Sin - [FF/CC] - this one only makes sense cause we recently added them to gehenna" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-30T14:30+00:00">
+		<door exists="False" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="False" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="2">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="286" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="286" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="295" name="Sin - [FF/CC] - screensaver" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-30T14:30+00:00">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="False" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="False" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="2">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="4">
+			<entity type="170" variant="10" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="296" name="Sin - [FF/CC] - spinny like works really well with this guy i noticed" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0" lastTestTime="2025-11-30T14:30+00:00">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="170" variant="10" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="297" name="Sin - [FF/CC] - plasma disc" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-30T14:30+00:00">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="False" x="6" y="-1"/>
+		<door exists="False" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="6" y="0">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="877" variant="114" subtype="120" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="6">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="298" name="Sin - [FF/CC] - oh no! this is plasbad! now i'm getting plasmad!" type="1" subtype="0" shape="6" width="26" height="7" difficulty="5" weight="1.0" lastTestTime="2025-11-30T14:32+00:00">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="19" y="-1"/>
+		<door exists="True" x="19" y="7"/>
+		<door exists="True" x="26" y="3"/>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="14" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="2">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="16" y="2">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="877" variant="114" subtype="120" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="15" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="16" y="3">
+			<entity type="877" variant="114" subtype="120" weight="1.0"/>
+		</spawn>
+		<spawn x="17" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="21" y="3">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="4">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="16" y="4">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="14" y="5">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="14" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="22" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="23" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="299" name="Sin - [FF/CC] - heart throb" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="-1" y="10"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="14"/>
+		<door exists="True" x="13" y="3"/>
+		<door exists="True" x="13" y="10"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="4">
+			<entity type="160" variant="1343" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="4">
+			<entity type="160" variant="1343" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="5">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="8">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="9">
+			<entity type="160" variant="1343" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="9">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="9">
+			<entity type="160" variant="1343" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="10">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="11">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="11">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="11">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="12">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="12">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="300" name="Sin - [FF/CC] - pillary of pride" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="False" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="5">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="114" variant="81" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="114" variant="81" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="301" name="Sin - [FF/CC] - it's me, the spy from team fortress 2 *jerma laughter*" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0" lastTestTime="2025-12-06T21:19+00:00">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="-1" y="10"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="14"/>
+		<door exists="True" x="13" y="3"/>
+		<door exists="True" x="13" y="10"/>
+		<spawn x="0" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="4">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="5">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="7">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="7">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="7">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="7">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="8">
+			<entity type="160" variant="1090" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="8">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="9">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="10">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="10">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="12">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="13">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="13">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="302" name="Sin - [FF/CC] - cattle prodding" type="1" subtype="0" shape="8" width="26" height="14" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="-1" y="10"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="14"/>
+		<door exists="True" x="19" y="-1"/>
+		<door exists="True" x="19" y="14"/>
+		<door exists="True" x="26" y="3"/>
+		<door exists="True" x="26" y="10"/>
+		<spawn x="0" y="0">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="14" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="15" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="16" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="23" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="24" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="0">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="24" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="2">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="2">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="4">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="14" y="4">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="16" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="17" y="4">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="5">
+			<entity type="160" variant="1170" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="17" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="160" variant="1170" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="6">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="7">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="7">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="7">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="14" y="7">
+			<entity type="160" variant="1170" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="7">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="8">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="8">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="8">
+			<entity type="160" variant="1170" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="17" y="8">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="8">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="9">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="9">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="9">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="16" y="9">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="17" y="9">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="11">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="11">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="12">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="12">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="24" y="12">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="12">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="13">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="13" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="14" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="15" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="16" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="23" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="24" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="25" y="13">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="303" name="Sin - [FF/CC] - offal fryer" type="1" subtype="0" shape="4" width="13" height="14" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="-1" y="10"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="14"/>
+		<door exists="True" x="13" y="3"/>
+		<door exists="True" x="13" y="10"/>
+		<spawn x="0" y="0">
+			<entity type="1010" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1010" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="114" variant="89" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="114" variant="89" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="6">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="7">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="8">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="8">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="8">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="9">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="10">
+			<entity type="114" variant="89" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="10">
+			<entity type="114" variant="89" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="12">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="12">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="13">
+			<entity type="1010" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="13">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="13">
+			<entity type="1010" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="304" name="Sin - [FF/CC] - you probably got some keys to spare" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1010" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="1">
+			<entity type="160" variant="1220" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="4000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="305" name="Sin - [FF/CC] - look at what i do" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="450" variant="18" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="306" name="Sin - [FF/CC] - plasma hitching" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="False" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="2" y="2">
+			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="2">
+			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="160" variant="661" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="6">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="307" name="Sin - [FF/CC] - magnet man" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="6100" variant="2" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="124" variant="0" subtype="3" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="6100" variant="2" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="308" name="Sin - [FF/CC] - shock maiden" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="450" variant="35" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="5">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="309" name="Sin - [FF/CC] - chomp shock" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="False" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="False" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="3">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="3">
+			<entity type="451" variant="111" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="3">
+			<entity type="451" variant="110" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="451" variant="110" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="3">
+			<entity type="451" variant="111" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="3">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="310" name="Sin - [FF/CC] - magnetized balls" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="8" y="0">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="160" variant="761" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="1">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="2">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="4">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="5">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="160" variant="761" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="6">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="311" name="Sin - [FF/CC] - shock master" type="1" subtype="0" shape="4" width="13" height="14" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="-1" y="10"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="14"/>
+		<door exists="True" x="13" y="3"/>
+		<door exists="True" x="13" y="10"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="3">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="4">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="4">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="4">
+			<entity type="160" variant="761" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="4">
+			<entity type="160" variant="761" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="4">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="4">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="6">
+			<entity type="160" variant="761" subtype="2" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="7">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="7">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="8">
+			<entity type="160" variant="761" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="9">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="9">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="9">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="9">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="10">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="10">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="10">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="10">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="10">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="10">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="10">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="10">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="13">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="13">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="13">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="13">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="13">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="13">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="312" name="Sin - [FF/CC] - electrocutioner solutioner" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="False" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="False" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="2">
+			<entity type="1900" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="4">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="120" variant="236" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1002" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="313" name="Sin - [FF/CC] - shadow shock" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="False" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="160" variant="711" subtype="10" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="160" variant="711" subtype="10" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="0">
+			<entity type="160" variant="711" subtype="10" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="160" variant="711" subtype="10" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="160" variant="711" subtype="10" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="2">
+			<entity type="160" variant="711" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="2">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="2">
+			<entity type="160" variant="711" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="314" name="Sin - [FF/CC] - shop of horrors" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="False" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="450" variant="17" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="3">
+			<entity type="109" variant="22" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="33" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="1.0"/>
 		</spawn>
 	</room>
 </rooms>
