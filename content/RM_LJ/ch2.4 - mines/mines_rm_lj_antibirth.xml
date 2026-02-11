@@ -1,0 +1,2190 @@
+<?xml version="1.0" ?>
+<rooms>
+	<room variant="65" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="3">
+			<entity type="825" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="825" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="66" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="1" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="67" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="1" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="68" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="1" weight="1.0" lastTestTime="2022-05-07T01:05+00:00">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="827" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="827" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="69" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="27" variant="3" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="70" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="27" variant="3" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="27" variant="3" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="71" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="2" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="False" x="6" y="-1"/>
+		<door exists="False" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="61" variant="3" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="61" variant="3" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="61" variant="3" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="72" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="False" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="823" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="823" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="73" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="1" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="2">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="823" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="4">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="74" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="False" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="240" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="240" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="75" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="12" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="3">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="826" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="3">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="76" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="False" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="0">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="0">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="822" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="77" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="824" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="824" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="824" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="78" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="6" width="26" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="19" y="-1"/>
+		<door exists="True" x="19" y="7"/>
+		<door exists="True" x="26" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="13" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="25" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="15" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="19" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="22" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="13" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="25" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="79" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="8" width="26" height="14" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="-1" y="10"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="14"/>
+		<door exists="True" x="19" y="-1"/>
+		<door exists="True" x="19" y="14"/>
+		<door exists="True" x="26" y="3"/>
+		<door exists="True" x="26" y="10"/>
+		<spawn x="0" y="0">
+			<entity type="1010" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1010" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="21" y="0">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="22" y="0">
+			<entity type="1010" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="23" y="0">
+			<entity type="1010" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="24" y="0">
+			<entity type="1010" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="25" y="0">
+			<entity type="1010" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="22" y="1">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="23" y="1">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="24" y="1">
+			<entity type="1010" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="25" y="1">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="2">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="2">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="13" y="2">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="14" y="2">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="15" y="2">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="13" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="14" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="15" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="16" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="17" y="3">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="19" y="3">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="4">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="4">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="13" y="4">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="14" y="4">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="15" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="16" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="17" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="18" y="4">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="5">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="5">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="13" y="5">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="14" y="5">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="15" y="5">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="16" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="17" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="18" y="5">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="13" y="6">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="14" y="6">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="15" y="6">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="16" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="17" y="6">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="7">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="7">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="7">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="7">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="7">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="7">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="13" y="7">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="14" y="7">
+			<entity type="1900" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="15" y="7">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="16" y="7">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="17" y="7">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="8">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="8">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="8">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="13" y="8">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="14" y="8">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="15" y="8">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="16" y="8">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="9">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="9">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="9">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="13" y="9">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="14" y="9">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="15" y="9">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="16" y="9">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="10">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="13" y="10">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="14" y="10">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="19" y="10">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="12">
+			<entity type="1010" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="12">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="12">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="24" y="12">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="25" y="12">
+			<entity type="1010" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="13">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="13">
+			<entity type="1010" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="13">
+			<entity type="1010" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="13">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="23" y="13">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="24" y="13">
+			<entity type="1010" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="25" y="13">
+			<entity type="1930" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="80" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1931" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="1931" variant="3" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="2">
+			<entity type="1931" variant="5" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="2">
+			<entity type="1931" variant="7" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="3">
+			<entity type="1931" variant="2" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="1931" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="1931" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="4">
+			<entity type="1931" variant="8" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="4">
+			<entity type="1931" variant="9" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="1931" variant="4" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="1931" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="81" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1931" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="1931" variant="3" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="2">
+			<entity type="1931" variant="5" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="2">
+			<entity type="1931" variant="7" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="3">
+			<entity type="1931" variant="2" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="1931" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="3">
+			<entity type="1931" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="4">
+			<entity type="1931" variant="8" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="4">
+			<entity type="1931" variant="9" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="1931" variant="4" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="1931" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="970" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="82" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="False" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="False" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="6000" variant="2" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="6000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="6000" variant="3" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="6000" variant="2" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="6000" variant="32" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="6000" variant="3" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="1">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="1">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="1">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="820" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="2">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="2">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="2">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="2">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="2">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="3">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="3">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="4">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="4">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="4">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="4">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="5">
+			<entity type="820" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="5">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="5">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="5">
+			<entity type="745" variant="10" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="6000" variant="1" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="6000" variant="4" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="6000" variant="32" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="6000" variant="5" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="6000" variant="4" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="6000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="6000" variant="5" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="83" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="1" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="False" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="809" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="0">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="809" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1002" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="1002" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="5" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="1940" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="5" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="84" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="False" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="1">
+			<entity type="970" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="33" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="33" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="85" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="6" y="0">
+			<entity type="970" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="1">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="33" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="5">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="86" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="False" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="5" y="0">
+			<entity type="1002" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="0">
+			<entity type="1002" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="0">
+			<entity type="1002" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="1">
+			<entity type="970" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="87" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="False" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="0">
+			<entity type="823" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="1">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+	</room>
+	<room variant="88" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="False" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="0">
+			<entity type="827" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="0">
+			<entity type="827" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="0">
+			<entity type="827" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="89" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="False" x="6" y="-1"/>
+		<door exists="False" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="1">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="4">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="12" y="4">
+			<entity type="1000" variant="0" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="6">
+			<entity type="804" variant="0" subtype="1" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="90" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="False" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1002" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="824" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="824" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="10" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1002" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="91" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="10" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="1">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="9" y="1">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="4">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="5">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="3000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="92" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="3" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="829" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="829" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="3" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="5" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="9" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+	<room variant="93" name="P.E.N.I.S. - [RM] - Antibirth" type="1" subtype="0" shape="1" width="13" height="7" difficulty="5" weight="1.0">
+		<door exists="True" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="1002" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="2">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="4" y="3">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="822" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="7" y="3">
+			<entity type="822" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="8" y="3">
+			<entity type="745" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="11" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+		<spawn x="12" y="6">
+			<entity type="1000" variant="0" subtype="0" weight="2.0"/>
+		</spawn>
+	</room>
+</rooms>
